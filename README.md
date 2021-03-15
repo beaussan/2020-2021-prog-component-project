@@ -25,3 +25,8 @@ You will be graded based on :
 - The usability of the ui
 - The tests
 - If the app is working (even if not all is implemented, it's still usable)
+
+## Handout :
+
+Demo of the app the 17 may 2021
+Source code by mail for the 16 22h
