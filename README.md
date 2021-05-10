@@ -2,7 +2,7 @@
 
 ## How to submit
 
-By mail, with the github url, the hosted url and any extra info I need to use the app (like an account or something else).
+By mail, with the github url, the hosted url and any extra info I need to use the app (like an account or something else). I also need the list of student that worked on this project.
 
 
 ## For all :
